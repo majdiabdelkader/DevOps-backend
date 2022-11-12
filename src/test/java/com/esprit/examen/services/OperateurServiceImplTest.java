@@ -41,7 +41,7 @@ void TestaddOperateur() {
     List<Operateur> Operateurs = new ArrayList<>();
     for (Long i=1L;i<=10L;i++) {
         op.setIdOperateur(i);
-        op.setNom("wael");
+        op.setNom("ahmed");
         op.setPrenom("amri");
         op.setPassword("aaaaa");
 
